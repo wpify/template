@@ -1,6 +1,6 @@
 # DEPRECATED: WPify Template
 
-**Use [wpify/templates](https://github.com/wpify/templates) instead.**
+**DEPRECATED! Use [wpify/templates](https://github.com/wpify/templates) instead.**
 
 ## Installation
 
